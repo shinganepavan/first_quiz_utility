@@ -23,8 +23,6 @@ import {
   ChevronUp,
   Award,
   BookOpen,
-  Shield,
-  MapPin,
   TrendingUp,
   Search,
   Sparkle,

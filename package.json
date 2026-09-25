@@ -1,0 +1,11 @@
+{
+  "name": "geopolitics-world-geography-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modern Interactive Quiz Web App for Geopolitics & World Geography",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

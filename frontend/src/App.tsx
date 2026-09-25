@@ -26,7 +26,7 @@ function App() {
           <FavoritesProvider>
             <Layout>
               <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/" element={<GeopoliticsQuiz />} />
                 <Route path="/quiz" element={<GeopoliticsQuiz />} />
                 <Route path="/geopolitics-quiz" element={<GeopoliticsQuiz />} />
                 <Route path="/utilities" element={<Utilities />} />
